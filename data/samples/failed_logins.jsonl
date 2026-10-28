@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-27T10:00:00Z","source":"Windows Security","host":"lab-ws-01","user":"demo.user","src_ip":"203.0.113.45","event_type":"authentication","action":"login","status":"failed"}
+{"timestamp":"2026-10-27T10:01:00Z","source":"Windows Security","host":"lab-ws-01","user":"demo.user","src_ip":"203.0.113.45","event_type":"authentication","action":"login","status":"failed"}
+{"timestamp":"2026-10-27T10:02:00Z","source":"Windows Security","host":"lab-ws-01","user":"demo.user","src_ip":"203.0.113.45","event_type":"authentication","action":"login","status":"failed"}
+{"timestamp":"2026-10-27T10:03:00Z","source":"Windows Security","host":"lab-ws-01","user":"demo.user","src_ip":"203.0.113.45","event_type":"authentication","action":"login","status":"failed"}
+{"timestamp":"2026-10-27T10:04:00Z","source":"Windows Security","host":"lab-ws-01","user":"demo.user","src_ip":"203.0.113.45","event_type":"authentication","action":"login","status":"failed"}

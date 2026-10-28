@@ -1,0 +1,1 @@
+2026-10-27T11:30:00Z source=dns host=lab-dns-01 user=service-dns src_ip=192.0.2.14 event_type=dns_query action=query destination_domain=k7m2q9v4x8p1n5r3c6b0d2f7h9j1m4q8x2v5c7n0p3r6s9w1y4z8.lab.invalid status=observed

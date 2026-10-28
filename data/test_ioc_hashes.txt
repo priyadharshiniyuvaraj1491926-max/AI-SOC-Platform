@@ -1,0 +1,2 @@
+# Local lab-only test signature set. The EICAR test file signature is harmless test data, not proof of compromise.
+44d88612fea8a8f36de82e1278abb02f

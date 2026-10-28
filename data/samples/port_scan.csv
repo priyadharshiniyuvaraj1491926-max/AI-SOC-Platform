@@ -1,0 +1,9 @@
+timestamp,source,host,user,src_ip,dst_ip,dst_port,event_type,action,status
+2026-10-27T11:00:00Z,Network telemetry,lab-edge-01,scanner,198.51.100.8,192.0.2.19,21,network_connection,connect,observed
+2026-10-27T11:00:01Z,Network telemetry,lab-edge-01,scanner,198.51.100.8,192.0.2.19,22,network_connection,connect,observed
+2026-10-27T11:00:02Z,Network telemetry,lab-edge-01,scanner,198.51.100.8,192.0.2.19,23,network_connection,connect,observed
+2026-10-27T11:00:03Z,Network telemetry,lab-edge-01,scanner,198.51.100.8,192.0.2.19,25,network_connection,connect,observed
+2026-10-27T11:00:04Z,Network telemetry,lab-edge-01,scanner,198.51.100.8,192.0.2.19,53,network_connection,connect,observed
+2026-10-27T11:00:05Z,Network telemetry,lab-edge-01,scanner,198.51.100.8,192.0.2.19,80,network_connection,connect,observed
+2026-10-27T11:00:06Z,Network telemetry,lab-edge-01,scanner,198.51.100.8,192.0.2.19,443,network_connection,connect,observed
+2026-10-27T11:00:07Z,Network telemetry,lab-edge-01,scanner,198.51.100.8,192.0.2.19,3389,network_connection,connect,observed
